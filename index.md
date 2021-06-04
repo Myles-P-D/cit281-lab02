@@ -8,7 +8,7 @@ We learned about cloning repositorys and updating version control to the cloud f
 This lab had us download a game from GitHub and experiment with running it from the terminal.
 
 ## Code: 
-[Here](https://github.com/Myles-P-D/cit281-lab02/blob/main/lab-02-node.js) is some updated code we used and ran through node at the commandline. 
+**[Here](https://github.com/Myles-P-D/cit281-lab02/blob/main/lab-02-node.js)** is some updated code we used and ran through node at the commandline. 
 ```javascript
 function square(num)
 {
