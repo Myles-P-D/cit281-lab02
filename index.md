@@ -9,8 +9,10 @@ This lab had us download a game from GitHub and experiment with running it from 
    
 **[lab 02 Repo](https://github.com/UO-CIT-Myles-P-D/cit281-lab02)**
    
-## Code: 
-**[Here](https://github.com/Myles-P-D/cit281-lab02/blob/main/lab-02-node.js)** is some updated code we used and ran through node at the commandline. 
+## Code:    
+   
+**[Here](https://github.com/Myles-P-D/cit281-lab02/blob/main/lab-02-node.js)** is some updated code we used and ran through node at the commandline.    
+   
 ```javascript
 function square(num)
 {
@@ -23,8 +25,9 @@ for (let i = 2; i <= 10; i+=2)
 }
 console.log(`Square of 20 is ${square(10)}`);
 ```
-
-## Images: 
-![Hangman.png](https://github.com/Myles-P-D/cit281-lab02/blob/main/hangman.png?raw=true "Hangman game screenshot")
+   
+## Images:    
+   
+![Hangman.png](https://github.com/Myles-P-D/cit281-lab02/blob/main/hangman.png?raw=true "Hangman game screenshot")     
 
 
